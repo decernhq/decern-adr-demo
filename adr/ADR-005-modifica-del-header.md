@@ -1,8 +1,10 @@
 # Modifica del header
 
-**Status:** Proposed
+**Status:** Approved
 
 **Author:** Alessandro Palazzesi
+
+**Date:** 2026-03-19
 
 ## Context
 
