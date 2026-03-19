@@ -1,6 +1,8 @@
 # Modifica del header
 
-**Status:** Approved
+**Status:** Proposed
+
+**Author:** Alessandro Palazzesi
 
 ## Context
 
