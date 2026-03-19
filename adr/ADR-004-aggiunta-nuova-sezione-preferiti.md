@@ -1,6 +1,6 @@
 # Aggiunta nuova sezione preferiti
 
-**Status:** Superseded
+**Status:** Proposed
 
 **Tags:** database
 
