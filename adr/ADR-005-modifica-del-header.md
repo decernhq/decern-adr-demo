@@ -1,6 +1,6 @@
 # Modifica del header
 
-**Status:** Proposed
+**Status:** Approved
 
 ## Context
 
